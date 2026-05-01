@@ -16,7 +16,7 @@ const DB_ROOT = process.env.DB_ROOT;
 const APP_ID = process.env.APP_ID;     
 const APP_SECRET = process.env.APP_SECRET;
 const ADMIN_SECRET = process.env.ADMIN_SECRET; 
-const AFF_ID = process.env.AFF_ID || "17396720247"; 
+const AFF_ID = process.env.AFF_ID || "17352800481"; 
 const SHOPEE_API_URL = 'https://open-api.affiliate.shopee.vn/graphql';
 
 
